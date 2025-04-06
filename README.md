@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Sasi
 - 👀 I’m interested in Security, Cryptograpghy and Automation.
 - 🌱 I’m currently learning Cryptography and Post-Quantum Cryptography
+- ✨ Programming Skills - Java, Python.
 
 
 <!---
